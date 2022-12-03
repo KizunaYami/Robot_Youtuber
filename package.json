@@ -1,0 +1,22 @@
+{
+  "name": "robot_youtuber",
+  "version": "1.0.0",
+  "description": "Robos que criam videos para o youtube de forma automatica.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KizunaYami/Robot_Youtuber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KizunaYami/Robot_Youtuber/issues"
+  },
+  "homepage": "https://github.com/KizunaYami/Robot_Youtuber#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
